@@ -1,0 +1,5 @@
+.bg-body-tertiary{
+    background-color: transparent;
+    position: absolute;
+    z-index: 2;
+}
